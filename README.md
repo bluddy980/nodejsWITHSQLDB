@@ -1,4 +1,8 @@
-npm install express , mssql , dotenv , cors , msnodesqlv8
-enable tcp/icp
+ENSURE TCP/ICP is enabled
+
+run in terminal one by one:
+npm init -y
+npm install express mssql dotenv cors  msnodesqlv8
+
 
 
